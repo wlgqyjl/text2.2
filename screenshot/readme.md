@@ -1,0 +1,16 @@
+#alterlDialog
+##截图1
+![](https://i.imgur.com/n6ZObmK.png)
+##截图2
+![](https://i.imgur.com/GuC0mBy.png)
+#menu
+##截图1
+![](https://i.imgur.com/PirjAzw.png)
+##调节菜单字体大，中，小
+![](https://i.imgur.com/bR7mRiz.png)
+![](https://i.imgur.com/5eHIo09.png)
+![](https://i.imgur.com/3cvToXu.png)
+##普通菜单项
+![](https://i.imgur.com/kD6UAHZ.png)
+##字体颜色调节
+![](https://i.imgur.com/cXjPVhv.png)
